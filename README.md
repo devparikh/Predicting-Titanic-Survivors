@@ -1,0 +1,2 @@
+# Predicting-Titanic-Survivors
+This is a repository that contains all of the code for my Machine Learning Model that can predict if certain passengers onboard the titanic will survive or not based off of some variables like Age, Socio-Economic background, gender and more. I used libraries like Pandas to do Data Analysis to gain more insight on the data, then I used scikit-learn to create all of the algorithms. The 3 algorithms that I used for this projects are Logistic Regression, Random Forest, and K-Nearest Neighbours.  
